@@ -6,12 +6,6 @@ app.
 This project is developed by **Kholikov Oybek** for more
 projects [GitHub](https://github.com/oybekjon94) .
 
-## Application Install
-
-***You can Install and test latest takror app from below 👇***
-
-<a href="https://play.google.com/store/apps/details?id=uz.javokhirdev.svocabulary" target="_blank"><img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" alt="Get it on Google Play" height="90"/></a>
-
 ## About
 
 <div align="left">
@@ -73,7 +67,3 @@ projects [GitHub](https://github.com/oybekjon94) .
 - [Material 3](https://m3.material.io/) - Make personal devices feel personal with Material Design 3, Google's most expressive and adaptable design system yet.
 - [Compose Navigation](https://developer.android.com/jetpack/compose/navigation) - The Navigation component provides support for Jetpack Compose applications. You can navigate between composables while taking advantage of the Navigation component’s infrastructure and features.
 - [Coil](https://coil-kt.github.io/coil/compose/) - An image loading library for Android backed by Kotlin Coroutines.
-
-## If you like my projects you can buy me a cup of coffee
-
-<a href="https://www.buymeacoffee.com/sjavokhir"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=VaibhavJaiswal&button_colour=FFBB3B&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
